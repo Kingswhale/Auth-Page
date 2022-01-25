@@ -96,7 +96,6 @@ button {
   display: flex;
 }
 .social div {
-  background: red;
   width: 150px;
   border-radius: 3px;
   padding: 5px 10px 10px 5px;
@@ -109,6 +108,10 @@ button {
 }
 .social .fb {
   margin-left: 25px;
+  background-color: rgba(30, 106, 221, 0.822);
+}
+.social .go {
+  background-color: rgba(233, 67, 67, 0.904);
 }
 .social i {
   margin-right: 4px;
